@@ -1,9 +1,9 @@
-name: Deploy ecom-frontend (GitHub Repository Name)
+name: Deploy ecom-frontend
 
 on:
   push:
     branches:
-      - main (Branch where this repository is pushed previously)
+      - main
 
 jobs:
   build:
